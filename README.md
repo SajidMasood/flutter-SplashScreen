@@ -1,5 +1,8 @@
 # splashscreen
 
+![144737540-ead8f0e2-373b-40fe-92e6-177cd0ddf502](https://user-images.githubusercontent.com/23151871/232323438-3302bf8c-bbc5-4ef2-b5dd-94305eb3bbe2.png)
+
+
 A new Flutter project.
 
 ## Getting Started
